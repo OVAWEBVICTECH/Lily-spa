@@ -1,0 +1,6 @@
+{
+  "name": "Lily Spa",
+  "description": "An elegant, premium beauty and wellness spa portal offering bespoke facial treatments, massage therapy, and luxury skincare diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
